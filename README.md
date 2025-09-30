@@ -2,8 +2,6 @@
 
 A minimalist and elegant invoice generator for creating and downloading professional invoices in seconds.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dasakaah/Invoice-Generator)
-
 ## Key Features
 
 -   **Minimalist Interface**: A clean, uncluttered, and intuitive single-page application for a seamless user experience.
